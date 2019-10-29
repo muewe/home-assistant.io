@@ -116,7 +116,7 @@ homematic:
       port: 2010
 ```
 
-## Raspberry Pi3
+## Raspberry Pi3 & Pi4
 
 With HM-MOD-RPI-PCB you need to add follow into your `config.txt` on boot partition:
 
